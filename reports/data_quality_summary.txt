@@ -1,0 +1,23 @@
+DATA QUALITY SUMMARY
+
+Datasets Analyzed:
+
+* HDFC_Top100_NAV.csv
+* SBI_Bluechip.csv
+* ICICI_Bluechip.csv
+* Nippon_LargeCap.csv
+* Axis_Bluechip.csv
+* Kotak_Bluechip.csv
+
+Observations:
+
+1. All datasets loaded successfully.
+2. Date column is stored as string datatype and should be converted to datetime during preprocessing.
+3. NAV column is stored as float64 and is suitable for numerical analysis.
+4. Missing values were checked and no major issues were found.
+5. Duplicate rows were checked for each dataset.
+6. Dataset structure is consistent across all downloaded NAV files.
+
+Conclusion:
+The downloaded NAV datasets are suitable for further preprocessing and analysis.
+

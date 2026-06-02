@@ -1,0 +1,156 @@
+============================================================
+Dataset: Axis_Bluechip.csv
+
+Shape:
+(3565, 2)
+
+Data Types:
+date        str
+nav     float64
+dtype: object
+
+First 5 Rows:
+         date        nav
+0  01-06-2026  6156.7532
+1  29-05-2026  6151.1139
+2  27-05-2026  6146.6118
+3  26-05-2026  6144.0004
+4  25-05-2026  6144.8478
+
+Missing Values:
+date    0
+nav     0
+dtype: int64
+
+Duplicate Rows:
+0
+============================================================
+Dataset: HDFC_Top100_NAV.csv
+
+Shape:
+(3091, 2)
+
+Data Types:
+date        str
+nav     float64
+dtype: object
+
+First 5 Rows:
+         date       nav
+0  01-06-2026  192.3195
+1  31-05-2026  193.6836
+2  29-05-2026  193.6848
+3  27-05-2026  195.0501
+4  26-05-2026  194.2258
+
+Missing Values:
+date    0
+nav     0
+dtype: int64
+
+Duplicate Rows:
+0
+============================================================
+Dataset: ICICI_Bluechip.csv
+
+Shape:
+(3307, 2)
+
+Data Types:
+date        str
+nav     float64
+dtype: object
+
+First 5 Rows:
+         date       nav
+0  01-06-2026  103.0948
+1  31-05-2026  104.3083
+2  29-05-2026  104.3129
+3  27-05-2026  105.9296
+4  26-05-2026  105.5115
+
+Missing Values:
+date    0
+nav     0
+dtype: int64
+
+Duplicate Rows:
+0
+============================================================
+Dataset: Kotak_Bluechip.csv
+
+Shape:
+(3301, 2)
+
+Data Types:
+date        str
+nav     float64
+dtype: object
+
+First 5 Rows:
+         date       nav
+0  01-06-2026  246.9814
+1  29-05-2026  248.6673
+2  27-05-2026  251.2273
+3  26-05-2026  251.2702
+4  25-05-2026  249.2266
+
+Missing Values:
+date    0
+nav     0
+dtype: int64
+
+Duplicate Rows:
+0
+============================================================
+Dataset: Nippon_LargeCap.csv
+
+Shape:
+(3298, 2)
+
+Data Types:
+date        str
+nav     float64
+dtype: object
+
+First 5 Rows:
+         date      nav
+0  01-06-2026  97.1944
+1  29-05-2026  98.4656
+2  27-05-2026  99.8092
+3  26-05-2026  99.4356
+4  25-05-2026  99.8047
+
+Missing Values:
+date    0
+nav     0
+dtype: int64
+
+Duplicate Rows:
+0
+============================================================
+Dataset: SBI_Bluechip.csv
+
+Shape:
+(3236, 2)
+
+Data Types:
+date        str
+nav     float64
+dtype: object
+
+First 5 Rows:
+         date       nav
+0  01-06-2026  104.7025
+1  29-05-2026  104.6570
+2  27-05-2026  104.5833
+3  26-05-2026  104.5269
+4  25-05-2026  104.5215
+
+Missing Values:
+date    0
+nav     0
+dtype: int64
+
+Duplicate Rows:
+0
